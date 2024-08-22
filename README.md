@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvoGodoy11
-- 👀 I’m interested in learn all that I can
+- 👀 I’m interested in learning all that I can
 - 🌱 I’m currently learning JS and SQL db
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
